@@ -4,7 +4,11 @@
 
 ### Standard
 
-![black](logo/standard.svg)
+![standard](logo/standard.svg)
+
+### Black
+
+![black](logo/black.svg)
 
 ### White
 
