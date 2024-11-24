@@ -14,10 +14,4 @@
 
 ![white](logo/white.svg)
 
-## Banner
-
-### Standard
-
-![black](banner/standard.svg)
-
 
